@@ -319,7 +319,7 @@ visibility: hidden;
 .footer::before{
     content: '';
     width: 70%;
-    height: 150px;
+    height: 120px;
     position: absolute;
     top:520%;
     left: 0;
@@ -331,7 +331,7 @@ visibility: hidden;
  .footer::after{
      content: '';
      width: 70%;
-     height: 150px;
+     height: 120px;
      position: absolute;
      top:520%;
      right:  0;
