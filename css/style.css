@@ -318,10 +318,10 @@ visibility: hidden;
 
 .footer::before{
     content: '';
-    width: 80%;
+    width: 50%;
     height: 100px;
     position: absolute;
-    top:520%;
+    top:530%;
     left: 0;
     background-image: url(../img/texture_dark.jpg);
     transform: skewY(6deg);
@@ -330,10 +330,10 @@ visibility: hidden;
  
  .footer::after{
      content: '';
-     width: 80%;
+     width: 50%;
      height: 100px;
      position: absolute;
-     top:520%;
+     top:530%;
      right:  0;
      background-image: url(../img/texture_dark.jpg);
      transform: skewY(-6deg); 
