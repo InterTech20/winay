@@ -318,7 +318,7 @@ visibility: hidden;
 
 .footer::before{
     content: '';
-    width: 70%;
+    width: 80%;
     height: 100px;
     position: absolute;
     top:520%;
@@ -330,7 +330,7 @@ visibility: hidden;
  
  .footer::after{
      content: '';
-     width: 70%;
+     width: 80%;
      height: 100px;
      position: absolute;
      top:520%;
