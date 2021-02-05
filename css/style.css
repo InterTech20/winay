@@ -424,9 +424,9 @@ visibility: hidden;
         padding: 5px 50px;
         background:#1f2732;
       }
-      header .logo{
-        width: 15%;
-        height: 15%;
+	  .logo{
+        width: 5%;
+        height: 5%;
 
     }
     header.sticky{
