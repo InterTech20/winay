@@ -468,6 +468,7 @@ visibility: hidden;
 top: 15px;
 
 }
+	  
    .text_slide_h1{font-size: 40px;}
 
    .text_slide_h2{font-size: 20px;}
@@ -501,3 +502,12 @@ top: 15px;
    .footer::before{display: none;}
 
   }
+@media (max-width: 600px) {
+
+	  .logo{
+        width: 35%;
+        height: 35%;
+
+    }
+}
+  
