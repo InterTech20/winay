@@ -505,9 +505,12 @@ top: 15px;
 @media (max-width: 600px) {
 
 	  .logo{
-        max-width: 25%;
-        height: 25%;
+        max-width: 35%;
+        height: 35%;
 
     }
+	header.active .nav {
+        top: 70px;
+      }
 }
   
