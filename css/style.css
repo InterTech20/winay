@@ -505,7 +505,7 @@ top: 15px;
 @media (max-width: 600px) {
 
 	  .logo{
-        width: 50px;
+        max-width: 30%;
 	height: 50px;
 
     }
