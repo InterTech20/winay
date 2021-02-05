@@ -425,7 +425,7 @@ visibility: hidden;
         background:#1f2732;
       }
 	  .logo{
-        width: 5%;
+        min-width: 40%;
         height: 5%;
 
     }
