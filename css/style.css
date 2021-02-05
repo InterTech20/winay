@@ -425,11 +425,9 @@ visibility: hidden;
         background:#1f2732;
       }
       header .logo{
-        padding: 10px;
-        width: 35%;
-        height: 35%;
-        position: relative;
-        z-index: 1000;
+        width: 15%;
+        height: 15%;
+
     }
     header.sticky{
         padding: 3px 50px;    
