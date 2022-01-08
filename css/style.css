@@ -316,7 +316,7 @@ visibility: hidden;
     height: 100%;
 }
 
-.footer::before{
+/*.footer::before{
     content: '';
     width: 51%;
     height: 120px;
@@ -337,7 +337,7 @@ visibility: hidden;
      right:  0;
      background-image: url(../img/texture_dark.jpg);
      transform: skewY(-6deg); 
-  }
+  }*/
   .copywrite{
       background:#2eb1ff ;
       padding: 20px;
@@ -496,9 +496,9 @@ top: 15px;
    
    .logo_footer{width:25%; bottom: 30px;}
 
-   .footer::after{display: none;}
+   /*.footer::after{display: none;}
    
-   .footer::before{display: none;}
+   .footer::before{display: none;}*/
 
   }
 @media (max-width: 600px) {
